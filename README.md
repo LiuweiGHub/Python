@@ -5,7 +5,7 @@ learning python by myself,人工智能时代
 - 环境搭建
 
 
-#1  python简介
+#1 python简介
 
 - 是一种计算机程序设计语言，是解释型语言
 
@@ -43,4 +43,27 @@ learning python by myself,人工智能时代
 > 方法一：从Python官网下载Python 3.6的[安装程序](https://www.python.org/ftp/python/3.6.3/python-3.6.3-macosx10.6.pkg)（网速慢的同学请移步[国内镜像](https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fpython)），双击运行并安装；
 >
 > 方法二：如果安装了Homebrew，直接通过命令`brew install python3`安装即可。
+
+
+
+# 3 第一个python程序
+
+```python
+//进入命令
+python
+//退出命令
+exit() 或者 Ctrl+D
+//print打印hello world
+>>> print('hello world')
+hello world
+//执行.py文件
+LiuWeideMacBook-Pro:~ liuwei$  python hello.py		//注意了：在命令行模式，而不是python交互模式
+//输入
+>>> name = input()
+>>> Liuwei
+>>> name
+>>> Liuwei
+```
+
+# 4 python基础
 
