@@ -66,4 +66,8 @@ LiuWeideMacBook-Pro:~ liuwei$  python hello.py		//注意了：在命令行模式
 ```
 
 # 4 python基础
+# 5 函数
+# 6 高级特性
+# 7 函数式编程
+# 8 模块
 
